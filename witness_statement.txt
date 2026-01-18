@@ -1,0 +1,35 @@
+WITNESS STATEMENT
+
+Case Number: INV-2023-8821
+Date: August 3, 2023
+Witness: Michael Roberts, IT Manager
+
+STATEMENT:
+
+I am providing this statement regarding the data breach incident on July 28, 2023.
+
+On that date, I was working from home as per our remote work policy. At approximately 2:15 PM, I received an alert from our security monitoring system indicating unusual database access patterns.
+
+I immediately logged into the admin console and noticed that someone with Sarah Martinez's credentials was downloading large volumes of customer records. This was unusual because:
+
+1. Sarah was on vacation that week (July 24-30)
+2. The access was from an IP address in Romania, not our office or approved VPN
+3. The query patterns were systematic - extracting tables in alphabetical order
+
+I contacted Sarah via her personal phone at 2:30 PM. She confirmed she was on vacation and had NOT accessed any company systems. She also mentioned that she had received a phishing email on July 20 asking her to "verify her credentials" but she had ignored it and deleted it.
+
+I immediately:
+- Disabled Sarah's account at 2:35 PM
+- Blocked the Romanian IP address
+- Initiated our incident response protocol
+- Notified my supervisor, David Chen, at 2:40 PM
+
+By my analysis, approximately 45,000 customer records were accessed before I stopped the breach. The data included names, email addresses, and purchase history, but NOT credit card information (that's stored separately with encryption).
+
+I preserved all server logs and access records as evidence.
+
+I believe this was a credential phishing attack that succeeded because Sarah clicked on a link in that July 20 email, despite her claim that she "deleted it."
+
+Signed,
+Michael Roberts
+Date: August 3, 2023

@@ -1,0 +1,57 @@
+Email Thread: Remote Work Policy Clarification
+
+---
+
+FROM: sarah.manager@company.com
+TO: team@company.com
+DATE: 2023-08-01
+SUBJECT: Remote Work - Policy Clarification
+
+Team,
+
+I want to clarify some confusion around remote work. Despite the June memo, our department does NOT allow fully remote work. Remote work is limited to 2 days per week maximum, and only for certain roles.
+
+Please disregard the June memo—it was not approved by all department heads. Continue following Remote Work Policy v2.0 as the official guideline.
+
+Regards,
+Sarah
+
+---
+
+FROM: hr.official@company.com
+TO: sarah.manager@company.com
+DATE: 2023-08-02
+SUBJECT: RE: Remote Work - Policy Clarification
+
+Sarah,
+
+The June memo IS official. All departments must comply. We understand there may be confusion, but the company has made a strategic shift to fully remote-first operations.
+
+Regards,
+HR
+
+---
+
+FROM: sarah.manager@company.com
+TO: hr.official@company.com
+DATE: 2023-08-02
+SUBJECT: RE: Remote Work - Policy Clarification
+
+This is inconsistent with what I was told in my manager briefing. I will need written confirmation.
+
+Sarah
+
+---
+
+FROM: legal.dept@company.com
+TO: sarah.manager@company.com, hr.official@company.com
+DATE: 2023-08-03
+SUBJECT: RE: Remote Work Policy - Official Statement
+
+Both parties: 
+
+The official remote work policy for 2023 is v2.0. The June memo was issued prematurely and should not be referenced. All employees should follow v2.0 guidelines until a formal policy update is issued.
+
+We apologize for the confusion.
+
+Legal Department

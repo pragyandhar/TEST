@@ -1,0 +1,67 @@
+QUARTERLY FINANCIAL SUMMARY
+
+TechCorp Solutions Inc.
+Q2 2023 Financial Report
+Reporting Period: April 1 - June 30, 2023
+
+REVENUE BREAKDOWN:
+
+Product Sales: $2,450,000
+  - Enterprise Licenses: $1,800,000
+  - SMB Licenses: $450,000
+  - Individual Subscriptions: $200,000
+
+Professional Services: $680,000
+  - Consulting: $420,000
+  - Training: $160,000
+  - Custom Development: $100,000
+
+Support & Maintenance: $380,000
+
+TOTAL REVENUE: $3,510,000
+
+EXPENSES:
+
+Personnel Costs: $1,920,000
+  - Salaries & Wages: $1,600,000
+  - Benefits: $240,000
+  - Contractor Fees: $80,000
+
+Infrastructure: $450,000
+  - Cloud Services (AWS): $280,000
+  - Office Rent: $120,000
+  - Equipment & Software: $50,000
+
+Operations: $340,000
+  - Marketing & Sales: $180,000
+  - Legal & Compliance: $90,000
+  - Insurance: $70,000
+
+Security Incident Costs: $125,000
+  - Forensic Investigation: $45,000
+  - Legal Fees: $35,000
+  - Customer Notification: $25,000
+  - Credit Monitoring Services: $20,000
+
+TOTAL EXPENSES: $2,835,000
+
+NET PROFIT: $675,000
+
+NOTES:
+
+The security incident in late July (occurring in Q3 but with Q2 investigation costs) resulted in unexpected expenses. Preliminary estimates suggest Q3 will see an additional $200,000-$300,000 in related costs:
+
+- Regulatory fines (estimated): $150,000
+- Lost customer revenue: $80,000
+- Additional security upgrades: $70,000
+
+Employee-related notes:
+- Sarah Martinez (Database Admin, $95,000 annual) placed on unpaid leave August 1
+- Michael Roberts (IT Manager, $110,000 annual) received commendation and $5,000 bonus for quick response
+- Two new security positions approved: Security Analyst ($85,000) and Compliance Officer ($92,000)
+
+Approved by:
+Chief Financial Officer
+Date: July 15, 2023
+
+Amended: August 10, 2023 (Security incident costs added)

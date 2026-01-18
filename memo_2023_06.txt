@@ -1,0 +1,21 @@
+MEMORANDUM
+
+TO: All Staff
+FROM: Human Resources
+DATE: 2023-06-15
+RE: Remote Work Effective Immediately
+
+Effective immediately, the following remote work policy updates apply:
+
+1. ALL employees are now eligible for fully remote work arrangements.
+2. Managers must approve remote work requests; default is now FULLY REMOTE unless role requires on-site presence.
+3. Core hours are 10 AM - 3 PM in local timezone, with flexibility for meetings outside these hours.
+4. Office presence is optional except for mandatory all-hands meetings (quarterly).
+5. Equipment: company will provide hardware for all remote workers.
+6. No restrictions on working from home vs. other locations (coworking spaces, cafes, etc.).
+7. Data security: encrypted VPN required for all connections; personal device use approved with multi-factor authentication.
+8. Monitoring policies relaxed to focus on outcomes rather than presence.
+
+This memo supersedes the Remote Work Policy v2.0 for immediate implementation.
+
+Questions? Contact HR at remote-policy@company.com

@@ -1,0 +1,70 @@
+SECURITY INCIDENT REPORT
+
+Report ID: SEC-2023-0728-BREACH
+Date Filed: August 5, 2023
+Filed By: David Chen, Director of IT Security
+
+INCIDENT SUMMARY:
+On July 28, 2023, our company experienced a data breach affecting approximately 45,000 customer records. Unauthorized access was detected and stopped within 20 minutes.
+
+TIMELINE OF EVENTS:
+
+July 20, 2023, 9:47 AM:
+- Phishing email sent to sarah.martinez@company.com
+- Subject: "Urgent: Verify Your Account Access"
+- Email appeared to be from IT Support but originated from external domain
+
+July 20, 2023, 10:15 AM:
+- Sarah Martinez accessed the phishing link (confirmed by web proxy logs)
+- She entered credentials on fake login page
+- NO report was filed by Sarah
+
+July 28, 2023, 2:15 PM:
+- Automated alert triggered due to unusual database activity
+- Michael Roberts (IT Manager) responded immediately
+
+July 28, 2023, 2:35 PM:
+- Compromised account disabled
+- Malicious IP blocked
+- Access stopped
+
+July 28, 2023, 3:00 PM:
+- Incident response team assembled
+- Forensic analysis initiated
+
+FINDINGS:
+
+1. ROOT CAUSE: Successful credential phishing attack
+2. EMPLOYEE INVOLVED: Sarah Martinez failed to report suspicious email and likely clicked the phishing link despite her denial
+3. DATA COMPROMISED: 45,000 customer records (names, emails, purchase history) - NO payment data exposed
+4. ATTACKER LOCATION: IP traced to Romania; likely VPN/proxy
+5. TIME TO DETECTION: 8 days (delay due to Sarah's vacation)
+
+CORRECTIVE ACTIONS TAKEN:
+
+1. All employee passwords reset immediately
+2. Mandatory multi-factor authentication (MFA) enabled company-wide
+3. Enhanced email filtering rules deployed
+4. Security awareness training scheduled for all staff
+
+DISCIPLINARY ACTIONS:
+
+Sarah Martinez has been placed on administrative leave pending investigation. Her failure to report the phishing attempt violated security policy Section 4.2.
+
+RECOMMENDATIONS:
+
+1. Implement quarterly phishing simulation tests
+2. Require MFA for all remote access (not just VPN)
+3. Review and strengthen employee security training program
+4. Consider implementing zero-trust architecture
+
+NOTIFICATION STATUS:
+
+- Internal stakeholders: Notified August 3
+- Legal counsel: Notified August 4
+- Affected customers: Notification letters sent August 10
+- Regulatory agencies: Filed required reports August 12
+
+Prepared by: David Chen
+Reviewed by: Legal Department
+Date: August 5, 2023

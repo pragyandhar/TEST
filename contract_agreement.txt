@@ -1,0 +1,53 @@
+EMPLOYMENT CONTRACT
+
+Contract Number: EMP-2023-4587
+Date: January 15, 2023
+
+PARTIES:
+1. TechCorp Solutions Inc. ("Employer")
+2. Jane Anderson ("Employee")
+
+TERMS OF EMPLOYMENT:
+
+1. POSITION AND DUTIES
+Employee is hired as Senior Software Engineer reporting to the Engineering Director.
+Primary responsibilities include backend development, API design, and system architecture.
+
+2. COMPENSATION
+Base Salary: $120,000 per annum
+Performance Bonus: Up to 15% annually based on objectives
+Stock Options: 5,000 shares vesting over 4 years
+
+3. WORK ARRANGEMENT
+Employee may work remotely up to 3 days per week, subject to manager approval.
+Core hours: 10 AM - 4 PM Eastern Time.
+Office location: 123 Tech Street, San Francisco, CA.
+
+4. BENEFITS
+- Health insurance (medical, dental, vision)
+- 401(k) matching up to 6%
+- 20 days PTO annually
+- Professional development budget: $2,000/year
+
+5. CONFIDENTIALITY
+Employee agrees to maintain strict confidentiality of all proprietary information.
+Non-disclosure obligations continue for 2 years post-employment.
+
+6. NON-COMPETE
+Employee agrees not to work for direct competitors for 12 months after termination within a 50-mile radius.
+
+7. TERMINATION
+Either party may terminate with 30 days written notice.
+Company may terminate immediately for cause (misconduct, breach of contract).
+
+8. INTELLECTUAL PROPERTY
+All work product created during employment belongs to the Employer.
+
+SIGNATURES:
+________________________
+TechCorp Solutions Inc.
+Date: January 15, 2023
+
+________________________
+Jane Anderson
+Date: January 15, 2023
